@@ -1,2 +1,2 @@
-# bus-tracker
+# bustracker
 bus tracker repository
